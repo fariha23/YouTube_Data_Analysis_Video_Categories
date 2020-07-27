@@ -1,5 +1,9 @@
 # YouTube_Data_Analysis_Video_Categories
 
+# Title: Predicting_Popularity_of_YouTube_Videos
+
+# Author: Fariha Baloch, PhD
+
 This repository contains code and reports on project titled "Predicting Popularity of YouTube Videos". Using YouTube data from Kaggle for the USA and Mexico several data cleaning and data analysis steps were performed and as final step using Machine Learning methods, popularity of the videos was predicted
 
 Data Wrangling was performed as the first step in the process - where data was converted to dataframe and cleaned up to be used in analysis
@@ -13,3 +17,4 @@ Machine Learing was next. Used clustering and classification methods to perform 
 Individual reports of each step mentioned above are provided in this repository with titled folders
 
 See the Capstone 1 Report and Presentation for more comprehensiove details on the project steps
+
